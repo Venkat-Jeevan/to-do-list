@@ -2,7 +2,7 @@
 
 ## Description
 
-LifeCanvas reimagines the traditional to-do list as an intuitive, visually stunning task dashboard. This project demonstrates how to build a modern web application with a focus on user experience, visual design, and functionality. The card-based layout provides a fresh approach to task management, making organization both effective and enjoyable.
+ reimagines the traditional to-do list as an intuitive, visually stunning task dashboard. This project demonstrates how to build a modern web application with a focus on user experience, visual design, and functionality. The card-based layout provides a fresh approach to task management, making organization both effective and enjoyable.
 
 ![LifeCanvas Dashboard Screenshot](screenshot.png)
 
